@@ -18,8 +18,8 @@ import os
 # ============================================================
 # CONFIGURATION - CHANGE THESE BEFORE RUNNING
 # ============================================================
-STUDENT_ID = "12345678"          # <-- Replace with your 8-digit student ID
-MESSAGE_PREFIX = "xxx"           # <-- Replace with the message given in the lab
+STUDENT_ID = "24096987"          # <-- Replace with your 8-digit student ID
+MESSAGE_PREFIX = "trust_but_verify"           # <-- Replace with the message given in the lab
 MESSAGE = f"{MESSAGE_PREFIX}-{STUDENT_ID}"
 
 # ============================================================
